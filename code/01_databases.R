@@ -12,7 +12,6 @@
 #       & cleaning imported data
 # 
 # ******************************************************
-#TESTtESSTETESTSTT
 
 # 0. Packages used in this script -----------------------------------------
 
